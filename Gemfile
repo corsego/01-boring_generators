@@ -59,3 +59,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # for authentication
 gem 'devise', '~> 4.7'
+
+
+# for omniauth github
+gem 'omniauth-github', '~> 1.4.0'
